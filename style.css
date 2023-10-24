@@ -1,0 +1,23 @@
+.timer {
+	display: flex;
+}
+.days {
+	padding: 20px;
+	font-size: 20px;
+	background-color: rgb(167, 157, 255);
+}
+.hours {
+	padding: 20px;
+	font-size: 20px;
+	background-color: rgb(167, 157, 255);
+}
+.mins {
+	padding: 20px;
+	font-size: 20px;
+	background-color: rgb(167, 157, 255);
+}
+.secs {
+	padding: 20px;
+	font-size: 20px;
+	background-color: rgb(167, 157, 255);
+}
